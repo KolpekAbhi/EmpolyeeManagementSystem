@@ -15,7 +15,6 @@ import com.EmpolyeeManagementSystem.EmpEntity.Emp;
 import com.EmpolyeeManagementSystem.EmpService.EmpService;
 
 
-
 @CrossOrigin (origins = "http://localhost:3000")
 @RestController
 public class EmpController {
